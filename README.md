@@ -1,0 +1,1 @@
+# Aseprite-scripts-for-normal-map-and-tileset-manipulation
